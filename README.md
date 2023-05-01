@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pipecordova" alt="pipecordova" /></a> </p>
 
+- 📫 How to reach me **felipe.cordova@alumnos.uach.cl**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Piipe#9304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Piipe#9304" height="30" width="40" /></a>
